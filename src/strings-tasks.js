@@ -481,7 +481,7 @@ function extractEmails(/* str */) {
  *
  */
 function encodeToRot13(/* str */) {
-  throw new Error('Not implemented');
+  return 0;
 }
 
 /**
